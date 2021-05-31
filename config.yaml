@@ -1,11 +1,12 @@
 title: "Osprey Delight Demo"
-baseURL: "https://example.com"
+baseURL: "https://al3xanderschmidt.github.io"
 languageCode: "en-US"
 theme: "osprey-delight"
 tags: ["personal", "homepage", "portfolio"]
 #canonifyURLS: true
 #googleAnalytics: ""
 disableKinds: ["taxonomy", "taxonomyTerm"]
+ignoreErrors: ["error-remote-getjson"]
 enableEmoji: true
 pygmentsUseClasses: true
 
@@ -40,16 +41,12 @@ Params:
 
 ## Social links in footer:
   Social:
-  - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
-    url: ""
-  - type: linkedin 
-    url: ""
+  - type: xing # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
+    url: "http://www.xing.com/profile/Alexander_Schmidt378"
+  - type: linkedin
+    url: "https://www.linkedin.com/in/alexander-schmidt-100186139"
   - type: github
-    url: github = "https://github.com/kdevo/osprey-delight"
-  - type: stackoverflow  
-    url: ""
-  - type: spotify
-    url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
+    url: github = "https://github.com/al3xanderschmidt"
 
 
 ## Theme features:
@@ -109,5 +106,5 @@ Menu:
     # Use icon here to back reference an external site:
     - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
       name: ""
-      url: "https://pyotek.dev"
+      url: "https://4code.de"
       weight: 5
