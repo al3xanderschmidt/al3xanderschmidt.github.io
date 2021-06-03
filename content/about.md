@@ -1,11 +1,19 @@
 +++
 title = "About"
-date = "2017-06-27T17:39:21-07:00"
+date = "2021-06-02T15:56:21"
 draft = false
 +++
 
-Osprey Delight is the free-minded artist's choice for a clutter-free and fast single-page portfolio. 
+My specialty mainly consists in introducing innovative and proven concepts when supporting my clients in the process of digital transformation.
 
-It tastes a bit different than [the original great Osprey theme](https://github.com/tomanistor/osprey) and adds awesome new functionality to your Delight.
+# {{< icon "rocket icon-pulse-fast" >}}
 
-It's perfectly suited to show off your awesome work! {{< icon "rocket icon-pulse-fast" >}}
+I have been working as a consultant in the areas of IT architecture, IT security, IT strategy and software development for 10 years now. My area of responsibility includes supporting customers from different business sectors in the design and implementation of the IT landscape, taking into account the latest technology trends.
+
+# {{< icon "terminal icon-pulse-fast" >}}
+
+In my projects, I take on the role of lead developer and IT architect, as well as the arrangements between the department and the development team. Since 2016, I have been working exclusively in Scrum projects and was certified as a Scrummaster in 2018.
+
+# {{< icon "code icon-pulse-fast" >}}
+
+In the projects, I steadily expanded my knowledge in the areas of DevOps (Jenkins for CI / CD and automation, Docker, Kubernetes, Terraform) and cloud computing with AWS. I support my customers with digitization, migration to the cloud and the automation of operating processes.
