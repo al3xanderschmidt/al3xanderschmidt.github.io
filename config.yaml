@@ -49,7 +49,8 @@ Params:
     url: "https://www.linkedin.com/in/alexander-schmidt-100186139"
   - type: github
     url: "https://github.com/al3xanderschmidt"
-
+  - type: stackoverflow
+    url: "https://stackoverflow.com/users/16111281/alexander-schmidt"
 
 ## Theme features:
   Feat:
